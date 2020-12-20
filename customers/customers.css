@@ -61,6 +61,8 @@ main {
 
 .testimonial__text {
   margin: 0.2rem;
+  /* letter-spacing: 5px; */
+  /* white-space: nowrap ; <-- not useful */
 }
 
 @media (min-width: 40rem) {
