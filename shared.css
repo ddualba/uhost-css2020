@@ -20,6 +20,7 @@ body {
 }
 
 main {
+  /* margin-top: 3.5rem; <- removed */
   /* grid-row: 2 / 3; */
   grid-area: main;
 }
